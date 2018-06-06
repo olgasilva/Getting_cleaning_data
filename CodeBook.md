@@ -1,7 +1,9 @@
 # Code book 
 ## Modifications and updates with the data in tidy_data.txt
 
-Variables: 
+It correspond to the average of each variable for each activity and each subject.
+
+**Variables:** 
 
 [1] "subject_Id"
 
@@ -141,4 +143,12 @@ Variables:
 
 [69] "Type_Activity"           
 
+**Activities:**
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
 
