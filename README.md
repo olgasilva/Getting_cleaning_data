@@ -1,5 +1,5 @@
 # Getting and cleaning data Course Project
-##Quizz Week 4
+## Quizz Week 4
 
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
 
